@@ -1,0 +1,6 @@
+framework module YZTool {
+  umbrella header "YZTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

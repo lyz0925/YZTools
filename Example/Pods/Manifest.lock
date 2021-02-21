@@ -1,0 +1,16 @@
+PODS:
+  - YZTool (0.1.0)
+
+DEPENDENCIES:
+  - YZTool (from `../`)
+
+EXTERNAL SOURCES:
+  YZTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YZTool: fb4014711c7e7363fce3dbc3cd4c846b3995211c
+
+PODFILE CHECKSUM: cd64a166ff8206e22116a294ab426d2928e25b5f
+
+COCOAPODS: 1.9.3
